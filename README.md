@@ -9,4 +9,4 @@ Aplicación de escritorio desarrollada para la gestión de nómina. Se encuentra
 
 ## Vista previa - Vista general
 
-![image](https://user-images.githubusercontent.com/67478427/133309121-a99ba0a2-7b7f-4a07-85bd-21ae1284eaa9.png)
+![image](https://user-images.githubusercontent.com/67478427/133309388-90d2ed07-adbd-4d27-b6be-e4c77b5da82c.png)
